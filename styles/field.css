@@ -20,7 +20,7 @@
     margin-top: 0.3125rem;
     border-radius: 0.625rem;
     height: 2.5rem;
-    width: 31.25rem;
+    max-width: 31.25rem;
 }
 
 .field .title__field h1 {
